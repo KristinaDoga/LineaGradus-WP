@@ -11291,3 +11291,22 @@ line-height: 1;
   padding: 15px;
   background: rgba(226,240,219,0.53);
 }
+.about-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+.about-grid__item{
+  background: #e2f0db87;
+  padding: 10px;
+}
+@media (max-width: 769px){
+  .custom-mobile-logo{
+      width: 70px;
+  }
+}
+@media (max-width: 676px){
+  .about-grid{
+  grid-template-columns: 1fr;
+}
+}

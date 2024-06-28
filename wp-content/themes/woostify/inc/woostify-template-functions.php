@@ -314,13 +314,13 @@ if ( ! function_exists( 'woostify_credit' ) ) {
 			<?php } ?>*/?>
 			<?php 
 				echo '<div class="site-infor-col">';
-				echo	'<span class="footer__title">Vita</span><br><span class="footer__title">Наши соцсети: </span><span><a href="https://vk.com/lineagradus">ВКонтакте</a></span><br><span><a href="https://www.youtube.com/channel/UCm28FIpkDAINYy8Is9ncZGw">Ютуб</a></span> <span><a href="/">Pinterest</a></span><br><span><a href="/">Telegram</a></span> <span><a href="/">WhatsApp</a></span>';
+				echo	'<span class="footer__title">LineaGradus</span><br><span class="footer__title">Наши соцсети: </span><span><a href="https://vk.com/lineagradus">ВКонтакте</a></span><br><span><a href="https://www.youtube.com/channel/UCm28FIpkDAINYy8Is9ncZGw">Ютуб</a></span> <span><a href="/">Pinterest</a></span><br><span><a href="/">Telegram</a></span> <span><a href="/">WhatsApp</a></span>';
 				echo '</div>';
 				?>
 			<?php 
 				echo '<div class="site-infor-col">';
 
-					echo	'<span class="footer__title">Контакты</span><br><span>Email: <a href="mailto:info@vita.ru">info@vita.ru</a></span><br><span>Телефон: <a href="tel:80009999999"> +7 000 999 99 99</a></span> <br><span>Адрес: <a href="https://yandex.ru/maps/?um=constructor%3Ab2fb5eeec5a5cf61e32dc42cec86395fbdeb16d973b595aa19c271f7fc4904db&source=constructorLink"> г. Лабинск, улица Халтурина, 37</a></span>';
+					echo	'<span class="footer__title">Контакты</span><br><span>Email: <a href="mailto:info@lineagradus.ru">info@lineagradus.ru</a></span><br><span>Телефон: <a href="tel:80009999999"> +7 000 999 99 99</a></span> <br><span>Адрес: <a href="https://yandex.ru/maps/?um=constructor%3Ab2fb5eeec5a5cf61e32dc42cec86395fbdeb16d973b595aa19c271f7fc4904db&source=constructorLink"> г. Лабинск, улица Халтурина, 37</a></span>';
 				echo '</div>';
 				?>
 
